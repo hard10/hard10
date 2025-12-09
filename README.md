@@ -58,10 +58,9 @@
 # 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard10&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hard10&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=hard10&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hard10&layout=compact&theme=tokyonight&hide_border=false" />
 </div>
-
 ---
 
 <div align="center">
