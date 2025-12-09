@@ -1,8 +1,3 @@
-<!-- Banner Hacker -->
-<div align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="700"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=26&duration=2800&color=00F0FF&center=true&vCenter=true&lines=Olá,+eu+sou+o+Gabriel+Silva;Futuro+Analista+de+Cybersecurity;Estudante+de+Segurança+da+Informação;Welcome+to+my+profile!">
 </h1>
@@ -31,7 +26,7 @@
 
 ---
 
-# 🌐 Stack Hacker (Minha Base Técnica)
+# 🌐 Stack Hacker
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,javascript,vscode" />
@@ -39,30 +34,28 @@
 
 ---
 
-# 🚀 Metas 2025 (Cyber Roadmap)
+# 🎯 Metas 2025 (Cyber Roadmap)
 
 ✔ Concluir Certificação Google Cybersecurity  
 ✔ Aprofundar Linux nível intermediário/avançado  
 ✔ Criar scripts em Python para automação e análises  
 ✔ Estudar Kali Linux e ferramentas ofensivas  
 ✔ Aprender redes (ICMP, TCP/UDP, VLAN, DNS, NAT, Firewall)  
-✔ Criar projetos REAIS para o GitHub (scanner, automações, logs, brute-force educativo)  
+✔ Criar projetos REAIS para o GitHub  
 ✔ Entrar na área de Segurança da Informação  
 
 ---
 
-# 🔥 Projetos (Em Construção)
+# 🔥 Projetos
 
 - 🛡️ **Ferramentas de automação em Python**
 - ⚙️ **Scripts para Linux**
 - 🌐 **Projetos Web**
-- 🔍 **Futuros projetos de pentest educativo**
-
-> *Os projetos aparecerão automaticamente nos repositórios fixados.*
+- 🔍 **Projetos de pentest educativo (em breve)**
 
 ---
 
-# 📊 Estatísticas Hacker
+# 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard10&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
@@ -71,10 +64,8 @@
 
 ---
 
-# 🧠 “A segurança não é um produto. É um processo.” – Bruce Schneier  
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <h3>🔥 “Disciplina e consistência constroem profissionais fortes.” 🔥</h3>
 </div>
 
 ---
