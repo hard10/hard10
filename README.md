@@ -63,4 +63,4 @@
 
 ---
 
-<h3 align="center">🔥 “Disciplina e consistência constroem profissionais fortes. Meu esfoço vai vencer qualquer talento” 🔥</h3>
+<h3 align="center">🔥 “Disciplina e consistência constroem profissionais fortes. Meu esforço vai vencer qualquer talento” 🔥</h3>
