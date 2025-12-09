@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=26&duration=2800&color=00F0FF&center=true&vCenter=true&lines=Olá,+eu+sou+o+Gabriel+Silva;Futuro+Analista+de+Cybersecurity;Estudante+de+Segurança+da+Informação;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=26&duration=2800&color=00F0FF&center=true&vCenter=true&lines=Olá,+eu+sou+o+Gabriel+Silva;Fu+turo+Analista+de+Cybersecurity;Estudante+de+Segurança+da+Informação;Welcome+to+my+profile!">
 </h1>
 
 ---
