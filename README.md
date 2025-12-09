@@ -55,14 +55,6 @@
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=hard10&theme=tokyonight&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hard10&layout=compact&theme=tokyonight&hide_border=false" />
-</div>
----
-
 <div align="center">
   <h3>🔥 “Disciplina e consistência constroem profissionais fortes.” 🔥</h3>
 </div>
