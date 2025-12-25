@@ -51,7 +51,7 @@
 - ⚙️ **Scripts para Linux**
 - 🌐 **Projetos Web**
 - 🔍 **Projetos de pentest educativo (em breve)**
-- 👾 **Projeto para laboratorio com ESP32 Maurauder/ CYD Touch Display
+- 👾 Projeto para laboratorio com ESP32 Maurauder/ CYD Touch Display
 
 ---
 
