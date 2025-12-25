@@ -33,7 +33,7 @@
 
 ---
 
-# 🎯 Metas 2025 (Cyber Roadmap)
+# 🎯 Metas 2026 (Cyber Roadmap)
 
 ✔ Concluir Certificação Google Cybersecurity  
 ✔ Aprofundar Linux nível intermediário/avançado  
@@ -51,6 +51,7 @@
 - ⚙️ **Scripts para Linux**
 - 🌐 **Projetos Web**
 - 🔍 **Projetos de pentest educativo (em breve)**
+- 👾 **Projeto para laboratorio com ESP32 Maurauder/ CYD Touch Display
 
 ---
 
